@@ -1,2 +1,2 @@
 # leetcode
-One LeetCode problems a day, keeps layoffs away
+One LeetCode problem a day, keeps layoffs away!
