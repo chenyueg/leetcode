@@ -4,6 +4,7 @@ import json
 import requests
 import re
 import html
+from datetime import date
 
 
 def get_problems():
@@ -131,6 +132,13 @@ def main():
 
                 print(f"Folder '{directory_name}' created with description.")
                 print(f"Please review the problem description from this file: {description_file_path}")
+                today_date = date.today().strftime('%Y/%m/%d')
+                log_entry = (
+                    f"- **{today_date}** - [Problem {problem_id}: {title}]({problem_url})\n"
+                )
+                with open("README.md", "a") as file:
+                    file.write(log_entry)
+                print(f"Added daily log to readme: Problem {problem_id}: {title}")
                 return  # Breaks the outer loop and ends the function after handling one problem
             elif confirm_input in ['n', 'no']:
                 print("Searching for another problem...")
