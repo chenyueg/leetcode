@@ -18,3 +18,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2024/05/07** - [Problem 2824: Count Pairs Whose Sum is Less than Target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target)
 - **2024/05/08** - [Problem 2997: Minimum Number of Operations to Make Array XOR Equal to K](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-xor-equal-to-k)
 - **2024/05/09** - [Problem 2114: Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences)
+- **2024/05/10** - [Problem 2859: Sum of Values at Indices With K Set Bits](https://leetcode.com/problems/sum-of-values-at-indices-with-k-set-bits)
