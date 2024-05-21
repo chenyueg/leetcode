@@ -24,3 +24,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2024/05/16** - [Problem 2373: Largest Local Values in a Matrix](https://leetcode.com/problems/largest-local-values-in-a-matrix)
 - **2024/05/17** - [Problem 1720: Decode XORed Array](https://leetcode.com/problems/decode-xored-array)
 - **2024/05/20** - [Problem 1863: Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals)
+- **2024/05/21** - [Problem 1828: Queries on Number of Points Inside a Circle](https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle)
