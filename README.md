@@ -21,3 +21,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2024/05/10** - [Problem 2859: Sum of Values at Indices With K Set Bits](https://leetcode.com/problems/sum-of-values-at-indices-with-k-set-bits)
 - **2024/05/13** - [Problem 2265: Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree)
 - **2024/05/14** - [Problem 3146: Permutation Difference between Two Strings](https://leetcode.com/problems/permutation-difference-between-two-strings)
+- **2024/05/22** - [Problem 2000: Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word)
