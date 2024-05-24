@@ -25,3 +25,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2024/05/17** - [Problem 1720: Decode XORed Array](https://leetcode.com/problems/decode-xored-array)
 - **2024/05/20** - [Problem 1863: Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals)
 - **2024/05/21** - [Problem 1828: Queries on Number of Points Inside a Circle](https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle)
+- **2024/05/24** - [Problem 2160: Minimum Sum of Four Digit Number After Splitting Digits](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits)
