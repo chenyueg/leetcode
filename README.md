@@ -29,3 +29,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2024/05/23** - [Problem 2574: Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences)
 - **2024/05/24** - [Problem 2160: Minimum Sum of Four Digit Number After Splitting Digits](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits)
 - **2024/05/28** - [Problem 3162: Find the Number of Good Pairs I](https://leetcode.com/problems/find-the-number-of-good-pairs-i)
+- **2024/05/29** - [Problem 1486: XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array)
