@@ -110,8 +110,8 @@ def main():
                             p['id'] == specific_problem_id), None)
             if not problem:
                 print(f"Problem ID {specific_problem_id} not found.")
-                print("Maybe the problems.json file is outdated.")
-                print("Please go to https://leetcode.com/api/problems/all/ to get the latest problems.json file.")
+                print("Maybe the problems file is outdated.")
+                print("Please go to https://leetcode.com/api/problems/all/ to get the latest problem content.")
                 print("Paste the content into the file named 'raw.json' in "
                       "https://github.com/juyingnan/leetcode_problems/tree/main" )
                 print("Then run the simplified_problems.json script to format the JSON file.")
