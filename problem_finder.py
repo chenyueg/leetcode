@@ -1,28 +1,36 @@
 import os
 import random
-import json
 import requests
 import re
 import html
 from datetime import date
-import problem_json_formatter
 
 
 def get_problems():
-    path_to_json = "problems.json"
-    problem_json_formatter.format_json_file(path_to_json, silent=True)
-    with open(path_to_json, 'r') as file:
-        data = json.load(file)
-    return data['stat_status_pairs']
+    url = "https://raw.githubusercontent.com/juyingnan/leetcode_problems/main/simplified_problems.json"
+    try:
+        response = requests.get(url)
+        response.raise_for_status()  # Raises an HTTPError for bad responses
+        data = response.json()
+        return data['stat_status_pairs']
+    except requests.exceptions.HTTPError as errh:
+        print(f"HTTP Error: {errh}")
+    except requests.exceptions.ConnectionError as errc:
+        print(f"Error Connecting: {errc}")
+    except requests.exceptions.Timeout as errt:
+        print(f"Timeout Error: {errt}")
+    except requests.exceptions.RequestException as err:
+        print(f"Oops: Something Else: {err}")
+
+    return []
 
 
 def get_random_problem(problems, difficulty):
     difficulty_levels = {'e': 1, 'easy': 1, 'm': 2, 'medium': 2, 'h': 3, 'hard': 3}
     filtered_problems = [problem for problem in problems if
-                         problem['difficulty']['level'] == difficulty_levels[difficulty.lower()] and not problem[
-                             'paid_only']]
+                         problem['level'] == difficulty_levels[difficulty.lower()]]
     existing_dirs = {d.split('_')[0] for d in os.listdir() if os.path.isdir(d)}
-    filtered_problems = [p for p in filtered_problems if str(p['stat']['frontend_question_id']) not in existing_dirs]
+    filtered_problems = [p for p in filtered_problems if str(p['id']) not in existing_dirs]
 
     if not filtered_problems:
         print("No more new problems available for this difficulty.")
@@ -99,16 +107,15 @@ def main():
         if user_input.isdigit():  # User inputs a specific problem ID
             specific_problem_id = int(user_input)
             problem = next((p for p in problems if
-                            p['stat']['frontend_question_id'] == specific_problem_id), None)
+                            p['id'] == specific_problem_id), None)
             if not problem:
                 print(f"Problem ID {specific_problem_id} not found.")
                 print("Maybe the problems.json file is outdated.")
                 print("Please go to https://leetcode.com/api/problems/all/ to get the latest problems.json file.")
-                print("Running this script again will automatically format the JSON file.")
+                print("Paste the content into the file named 'raw.json' in "
+                      "https://github.com/juyingnan/leetcode_problems/tree/main" )
+                print("Then run the simplified_problems.json script to format the JSON file.")
                 print("Or you can call Bunny to solve this problem.")
-                continue
-            if problem['paid_only']:
-                print(f"Problem ID {specific_problem_id} is a paid problem.")
                 continue
         else:
             if user_input in difficulty_map:  # Valid difficulty entered
@@ -121,9 +128,9 @@ def main():
                 print("Invalid response. Please enter Easy (E), Medium (M), or Hard (H), or a specific problem ID.")
                 continue  # Continue asking for input
 
-        title = problem['stat']['question__title']
-        problem_id = problem['stat']['frontend_question_id']
-        slug = problem['stat']['question__title_slug']
+        title = problem['title']
+        problem_id = problem['id']
+        slug = problem['slug']
         problem_url = f"https://leetcode.com/problems/{slug}"
 
         while True:  # Inner loop for yes/no confirmation
