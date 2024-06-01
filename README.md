@@ -31,3 +31,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2024/05/28** - [Problem 3162: Find the Number of Good Pairs I](https://leetcode.com/problems/find-the-number-of-good-pairs-i)
 - **2024/05/29** - [Problem 1486: XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array)
 - **2024/05/30** - [Problem 1389: Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order)
+- **2024/06/01** - [Problem 2181: Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros)
