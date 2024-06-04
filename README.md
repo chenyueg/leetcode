@@ -33,3 +33,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2024/05/30** - [Problem 1389: Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order)
 - **2024/06/01** - [Problem 2181: Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros)
 - **2024/06/03** - [Problem 1688: Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament)
+- **2024/06/04** - [Problem 2125: Number of Laser Beams in a Bank](https://leetcode.com/problems/number-of-laser-beams-in-a-bank)
