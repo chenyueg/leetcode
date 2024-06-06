@@ -35,3 +35,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2024/06/03** - [Problem 1688: Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament)
 - **2024/06/04** - [Problem 2125: Number of Laser Beams in a Bank](https://leetcode.com/problems/number-of-laser-beams-in-a-bank)
 - **2024/06/05** - [Problem 2974: Minimum Number Game](https://leetcode.com/problems/minimum-number-game)
+- **2024/06/06** - [Problem 3065: Minimum Operations to Exceed Threshold Value I](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-i)
