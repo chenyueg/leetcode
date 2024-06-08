@@ -34,3 +34,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2024/06/01** - [Problem 2181: Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros)
 - **2024/06/03** - [Problem 1688: Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament)
 - **2024/06/04** - [Problem 2125: Number of Laser Beams in a Bank](https://leetcode.com/problems/number-of-laser-beams-in-a-bank)
+- **2024/06/07** - [Problem 2652: Sum Multiples](https://leetcode.com/problems/sum-multiples)
