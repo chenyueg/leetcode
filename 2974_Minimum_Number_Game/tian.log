@@ -1,0 +1,9 @@
+func numberGame(nums []int) []int {
+    sort.Ints(nums)
+    result := make([]int, len(nums))
+    for i := 1; i < len(nums); i = i+2 {
+        result[i-1] = nums[i]
+        result[i] = nums[i-1]
+    }
+    return result
+}
