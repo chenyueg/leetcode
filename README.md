@@ -37,3 +37,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2024/06/05** - [Problem 2974: Minimum Number Game](https://leetcode.com/problems/minimum-number-game)
 - **2024/06/06** - [Problem 3065: Minimum Operations to Exceed Threshold Value I](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-i)
 - **2024/06/07** - [Problem 2652: Sum Multiples](https://leetcode.com/problems/sum-multiples)
+- **2024/06/10** - [Problem 2391: Minimum Amount of Time to Collect Garbage](https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage)
