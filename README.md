@@ -39,3 +39,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2024/06/07** - [Problem 2652: Sum Multiples](https://leetcode.com/problems/sum-multiples)
 - **2024/06/10** - [Problem 2391: Minimum Amount of Time to Collect Garbage](https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage)
 - **2024/06/11** - [Problem 2545: Sort the Students by Their Kth Score](https://leetcode.com/problems/sort-the-students-by-their-kth-score)
+- **2024/06/12** - [Problem 1816: Truncate Sentence](https://leetcode.com/problems/truncate-sentence)
