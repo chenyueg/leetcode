@@ -40,3 +40,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2024/06/10** - [Problem 2391: Minimum Amount of Time to Collect Garbage](https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage)
 - **2024/06/11** - [Problem 2545: Sort the Students by Their Kth Score](https://leetcode.com/problems/sort-the-students-by-their-kth-score)
 - **2024/06/12** - [Problem 1816: Truncate Sentence](https://leetcode.com/problems/truncate-sentence)
+- **2024/06/13** - [Problem 2037: Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone)
