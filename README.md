@@ -38,4 +38,7 @@ One LeetCode problem a day, keeps layoffs away!
 - **2024/06/06** - [Problem 3065: Minimum Operations to Exceed Threshold Value I](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-i)
 - **2024/06/07** - [Problem 2652: Sum Multiples](https://leetcode.com/problems/sum-multiples)
 - **2024/06/10** - [Problem 2391: Minimum Amount of Time to Collect Garbage](https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage)
+- **2024/06/11** - [Problem 2545: Sort the Students by Their Kth Score](https://leetcode.com/problems/sort-the-students-by-their-kth-score)
+- **2024/06/12** - [Problem 1816: Truncate Sentence](https://leetcode.com/problems/truncate-sentence)
+- **2024/06/13** - [Problem 2037: Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone)
 - **2024/06/14** - [Problem 1442: Count Triplets That Can Form Two Arrays of Equal XOR](https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor)
