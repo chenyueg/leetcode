@@ -42,3 +42,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2024/06/12** - [Problem 1816: Truncate Sentence](https://leetcode.com/problems/truncate-sentence)
 - **2024/06/13** - [Problem 2037: Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone)
 - **2024/06/14** - [Problem 1442: Count Triplets That Can Form Two Arrays of Equal XOR](https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor)
+- **2024/06/17** - [Problem 1773: Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule)
