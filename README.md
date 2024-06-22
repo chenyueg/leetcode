@@ -44,4 +44,6 @@ One LeetCode problem a day, keeps layoffs away!
 - **2024/06/14** - [Problem 1442: Count Triplets That Can Form Two Arrays of Equal XOR](https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor)
 - **2024/06/17** - [Problem 1773: Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule)
 - **2024/06/18** - [Problem 2161: Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot)
+- **2024/06/19** - [Problem 1528: Shuffle String](https://leetcode.com/problems/shuffle-string)
+- **2024/06/20** - [Problem 2220: Minimum Bit Flips to Convert Number](https://leetcode.com/problems/minimum-bit-flips-to-convert-number)
 - **2024/06/21** - [Problem 1561: Maximum Number of Coins You Can Get](https://leetcode.com/problems/maximum-number-of-coins-you-can-get)
