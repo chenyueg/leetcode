@@ -48,3 +48,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2024/06/20** - [Problem 2220: Minimum Bit Flips to Convert Number](https://leetcode.com/problems/minimum-bit-flips-to-convert-number)
 - **2024/06/21** - [Problem 1561: Maximum Number of Coins You Can Get](https://leetcode.com/problems/maximum-number-of-coins-you-can-get)
 - **2024/06/24** - [Problem 2520: Count the Digits That Divide a Number](https://leetcode.com/problems/count-the-digits-that-divide-a-number)
+- **2024/06/25** - [Problem 3190: Find Minimum Operations to Make All Elements Divisible by Three](https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three)
