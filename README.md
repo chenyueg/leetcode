@@ -50,3 +50,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2024/06/24** - [Problem 2520: Count the Digits That Divide a Number](https://leetcode.com/problems/count-the-digits-that-divide-a-number)
 - **2024/06/25** - [Problem 3190: Find Minimum Operations to Make All Elements Divisible by Three](https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three)
 - **2024/06/26** - [Problem 2482: Difference Between Ones and Zeros in Row and Column](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column)
+- **2024/06/27** - [Problem 1791: Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph)
