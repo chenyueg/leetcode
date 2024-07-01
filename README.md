@@ -52,3 +52,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2024/06/26** - [Problem 2482: Difference Between Ones and Zeros in Row and Column](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column)
 - **2024/06/27** - [Problem 1791: Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph)
 - **2024/06/28** - [Problem 1382: Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree)
+- **2024/07/01** - [Problem 2325: Decode the Message](https://leetcode.com/problems/decode-the-message)
