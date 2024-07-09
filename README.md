@@ -55,3 +55,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2024/07/01** - [Problem 2325: Decode the Message](https://leetcode.com/problems/decode-the-message)
 - **2024/07/02** - [Problem 2236: Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children)
 - **2024/07/03** - [Problem 3194: Minimum Average of Smallest and Largest Elements](https://leetcode.com/problems/minimum-average-of-smallest-and-largest-elements)
+- **2024/07/08** - [Problem 3211: Generate Binary Strings Without Adjacent Zeros](https://leetcode.com/problems/generate-binary-strings-without-adjacent-zeros)
