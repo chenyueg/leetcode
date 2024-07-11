@@ -58,3 +58,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2024/07/08** - [Problem 3211: Generate Binary Strings Without Adjacent Zeros](https://leetcode.com/problems/generate-binary-strings-without-adjacent-zeros)
 - **2024/07/09** - [Problem 2535: Difference Between Element Sum and Digit Sum of an Array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array)
 - **2024/07/10** - [Problem 1656: Design an Ordered Stream](https://leetcode.com/problems/design-an-ordered-stream)
+- **2024/07/11** - [Problem 1409: Queries on a Permutation With Key](https://leetcode.com/problems/queries-on-a-permutation-with-key)
