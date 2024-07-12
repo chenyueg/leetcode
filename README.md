@@ -59,3 +59,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2024/07/09** - [Problem 2535: Difference Between Element Sum and Digit Sum of an Array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array)
 - **2024/07/10** - [Problem 1656: Design an Ordered Stream](https://leetcode.com/problems/design-an-ordered-stream)
 - **2024/07/11** - [Problem 1409: Queries on a Permutation With Key](https://leetcode.com/problems/queries-on-a-permutation-with-key)
+- **2024/07/12** - [Problem 2367: Number of Arithmetic Triplets](https://leetcode.com/problems/number-of-arithmetic-triplets)
