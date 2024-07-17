@@ -61,3 +61,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2024/07/11** - [Problem 1409: Queries on a Permutation With Key](https://leetcode.com/problems/queries-on-a-permutation-with-key)
 - **2024/07/12** - [Problem 2367: Number of Arithmetic Triplets](https://leetcode.com/problems/number-of-arithmetic-triplets)
 - **2024/07/15** - [Problem 2194: Cells in a Range on an Excel Sheet](https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet)
+- **2024/07/16** - [Problem 2149: Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign)
