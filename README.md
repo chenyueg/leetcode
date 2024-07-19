@@ -63,3 +63,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2024/07/15** - [Problem 2194: Cells in a Range on an Excel Sheet](https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet)
 - **2024/07/16** - [Problem 2149: Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign)
 - **2024/07/17** - [Problem 2006: Count Number of Pairs With Absolute Difference K](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k)
+- **2024/07/18** - [Problem 2485: Find the Pivot Integer](https://leetcode.com/problems/find-the-pivot-integer)
