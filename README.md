@@ -65,3 +65,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2024/07/17** - [Problem 2006: Count Number of Pairs With Absolute Difference K](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k)
 - **2024/07/18** - [Problem 2485: Find the Pivot Integer](https://leetcode.com/problems/find-the-pivot-integer)
 - **2024/07/20** - [Problem 2108: Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array)
+- **2024/07/22** - [Problem 2418: Sort the People](https://leetcode.com/problems/sort-the-people)
