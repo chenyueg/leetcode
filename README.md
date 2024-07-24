@@ -67,3 +67,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2024/07/20** - [Problem 2108: Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array)
 - **2024/07/22** - [Problem 2418: Sort the People](https://leetcode.com/problems/sort-the-people)
 - **2024/07/23** - [Problem 1614: Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses)
+- **2024/07/24** - [Problem 2810: Faulty Keyboard](https://leetcode.com/problems/faulty-keyboard)
