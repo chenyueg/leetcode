@@ -68,3 +68,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2024/07/22** - [Problem 2418: Sort the People](https://leetcode.com/problems/sort-the-people)
 - **2024/07/23** - [Problem 1614: Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses)
 - **2024/07/24** - [Problem 2810: Faulty Keyboard](https://leetcode.com/problems/faulty-keyboard)
+- **2024/07/25** - [Problem 1630: Arithmetic Subarrays](https://leetcode.com/problems/arithmetic-subarrays)
