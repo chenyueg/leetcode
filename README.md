@@ -69,3 +69,5 @@ One LeetCode problem a day, keeps layoffs away!
 - **2024/07/23** - [Problem 1614: Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses)
 - **2024/07/24** - [Problem 2810: Faulty Keyboard](https://leetcode.com/problems/faulty-keyboard)
 - **2024/07/25** - [Problem 1630: Arithmetic Subarrays](https://leetcode.com/problems/arithmetic-subarrays)
+- **2024/07/26** - [Problem 2960: Count Tested Devices After Test Operations](https://leetcode.com/problems/count-tested-devices-after-test-operations)
+- **2024/07/26** - [Problem 2956: Find Common Elements Between Two Arrays](https://leetcode.com/problems/find-common-elements-between-two-arrays)
