@@ -74,3 +74,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2024/07/29** - [Problem 1684: Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings)
 - **2024/07/30** - [Problem 1732: Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude)
 - **2024/07/31** - [Problem 1021: Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses)
+- **2024/08/01** - [Problem 1832: Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram)
