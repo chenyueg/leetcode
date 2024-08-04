@@ -72,3 +72,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2024/07/26** - [Problem 2960: Count Tested Devices After Test Operations](https://leetcode.com/problems/count-tested-devices-after-test-operations)
 - **2024/07/26** - [Problem 2956: Find Common Elements Between Two Arrays](https://leetcode.com/problems/find-common-elements-between-two-arrays)
 - **2024/07/29** - [Problem 1684: Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings)
+- **2024/08/04** - [Problem 3242: Design Neighbor Sum Service](https://leetcode.com/problems/design-neighbor-sum-service)
