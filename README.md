@@ -75,4 +75,6 @@ One LeetCode problem a day, keeps layoffs away!
 - **2024/07/30** - [Problem 1732: Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude)
 - **2024/07/31** - [Problem 1021: Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses)
 - **2024/08/01** - [Problem 1832: Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram)
+- **2024/08/04** - [Problem 3242: Design Neighbor Sum Service](https://leetcode.com/problems/design-neighbor-sum-service)
+- **2024/08/05** - [Problem 1859: Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence)
 - **2024/08/07** - [Problem 1588: Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays)
