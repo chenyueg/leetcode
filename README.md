@@ -79,3 +79,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2024/08/05** - [Problem 1859: Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence)
 - **2024/08/07** - [Problem 1588: Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays)
 - **2024/08/08** - [Problem 2864: Maximum Odd Binary Number](https://leetcode.com/problems/maximum-odd-binary-number)
+- **2024/08/11** - [Problem 3232: Find if Digit Game Can Be Won](https://leetcode.com/problems/find-if-digit-game-can-be-won)
