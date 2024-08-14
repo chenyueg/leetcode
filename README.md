@@ -82,3 +82,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2024/08/11** - [Problem 3232: Find if Digit Game Can Be Won](https://leetcode.com/problems/find-if-digit-game-can-be-won)
 - **2024/08/12** - [Problem 1572: Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum)
 - **2024/08/13** - [Problem 885: Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii)
+- **2024/08/14** - [Problem 1605: Find Valid Matrix Given Row and Column Sums](https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums)
