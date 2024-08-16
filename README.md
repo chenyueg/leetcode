@@ -84,3 +84,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2024/08/13** - [Problem 885: Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii)
 - **2024/08/14** - [Problem 1605: Find Valid Matrix Given Row and Column Sums](https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums)
 - **2024/08/15** - [Problem 2828: Check if a String Is an Acronym of Words](https://leetcode.com/problems/check-if-a-string-is-an-acronym-of-words)
+- **2024/08/16** - [Problem 950: Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order)
