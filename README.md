@@ -81,4 +81,8 @@ One LeetCode problem a day, keeps layoffs away!
 - **2024/08/08** - [Problem 2864: Maximum Odd Binary Number](https://leetcode.com/problems/maximum-odd-binary-number)
 - **2024/08/11** - [Problem 3232: Find if Digit Game Can Be Won](https://leetcode.com/problems/find-if-digit-game-can-be-won)
 - **2024/08/12** - [Problem 1572: Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum)
+- **2024/08/13** - [Problem 885: Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii)
+- **2024/08/14** - [Problem 1605: Find Valid Matrix Given Row and Column Sums](https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums)
+- **2024/08/15** - [Problem 2828: Check if a String Is an Acronym of Words](https://leetcode.com/problems/check-if-a-string-is-an-acronym-of-words)
+- **2024/08/16** - [Problem 950: Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order)
 - **2024/08/19** - [Problem 3099: Harshad Number](https://leetcode.com/problems/harshad-number)
