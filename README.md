@@ -81,3 +81,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2024/08/08** - [Problem 2864: Maximum Odd Binary Number](https://leetcode.com/problems/maximum-odd-binary-number)
 - **2024/08/11** - [Problem 3232: Find if Digit Game Can Be Won](https://leetcode.com/problems/find-if-digit-game-can-be-won)
 - **2024/08/12** - [Problem 1572: Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum)
+- **2024/08/19** - [Problem 3099: Harshad Number](https://leetcode.com/problems/harshad-number)
