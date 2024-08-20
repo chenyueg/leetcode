@@ -86,3 +86,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2024/08/15** - [Problem 2828: Check if a String Is an Acronym of Words](https://leetcode.com/problems/check-if-a-string-is-an-acronym-of-words)
 - **2024/08/16** - [Problem 950: Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order)
 - **2024/08/19** - [Problem 3099: Harshad Number](https://leetcode.com/problems/harshad-number)
+- **2024/08/20** - [Problem 1913: Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs)
