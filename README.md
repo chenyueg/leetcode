@@ -87,3 +87,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2024/08/16** - [Problem 950: Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order)
 - **2024/08/19** - [Problem 3099: Harshad Number](https://leetcode.com/problems/harshad-number)
 - **2024/08/20** - [Problem 1913: Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs)
+- **2024/08/21** - [Problem 1464: Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array)
