@@ -88,3 +88,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2024/08/19** - [Problem 3099: Harshad Number](https://leetcode.com/problems/harshad-number)
 - **2024/08/20** - [Problem 1913: Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs)
 - **2024/08/21** - [Problem 1464: Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array)
+- **2024/08/24** - [Problem 2913: Subarrays Distinct Element Sum of Squares I](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i)
