@@ -90,3 +90,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2024/08/21** - [Problem 1464: Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array)
 - **2024/08/24** - [Problem 2913: Subarrays Distinct Element Sum of Squares I](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i)
 - **2024/08/24** - [Problem 2331: Evaluate Boolean Binary Tree](https://leetcode.com/problems/evaluate-boolean-binary-tree)
+- **2024/08/26** - [Problem 894: All Possible Full Binary Trees](https://leetcode.com/problems/all-possible-full-binary-trees)
