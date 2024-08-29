@@ -92,3 +92,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2024/08/23** - [Problem 2331: Evaluate Boolean Binary Tree](https://leetcode.com/problems/evaluate-boolean-binary-tree)
 - **2024/08/26** - [Problem 894: All Possible Full Binary Trees](https://leetcode.com/problems/all-possible-full-binary-trees)
 - **2024/08/27** - [Problem 2120: Execution of All Suffix Instructions Staying in a Grid](https://leetcode.com/problems/execution-of-all-suffix-instructions-staying-in-a-grid)
+- **2024/08/29** - [Problem 797: All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target)
