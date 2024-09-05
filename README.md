@@ -96,3 +96,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2024/08/30** - [Problem 2315: Count Asterisks](https://leetcode.com/problems/count-asterisks)
 - **2024/09/03** - [Problem 3271: Hash Divided String](https://leetcode.com/problems/hash-divided-string)
 - **2024/09/04** - [Problem 2656: Maximum Sum With Exactly K Elements ](https://leetcode.com/problems/maximum-sum-with-exactly-k-elements)
+- **2024/09/05** - [Problem 3131: Find the Integer Added to Array I](https://leetcode.com/problems/find-the-integer-added-to-array-i)
