@@ -99,3 +99,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2024/09/05** - [Problem 3131: Find the Integer Added to Array I](https://leetcode.com/problems/find-the-integer-added-to-array-i)
 - **2024/09/06** - [Problem 2697: Lexicographically Smallest Palindrome](https://leetcode.com/problems/lexicographically-smallest-palindrome)
 - **2024/09/09** - [Problem 3280: Convert Date to Binary](https://leetcode.com/problems/convert-date-to-binary)
+- **2024/09/10** - [Problem 2326: Spiral Matrix IV](https://leetcode.com/problems/spiral-matrix-iv)
