@@ -101,3 +101,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2024/09/09** - [Problem 3280: Convert Date to Binary](https://leetcode.com/problems/convert-date-to-binary)
 - **2024/09/10** - [Problem 2326: Spiral Matrix IV](https://leetcode.com/problems/spiral-matrix-iv)
 - **2024/09/11** - [Problem 2053: Kth Distinct String in an Array](https://leetcode.com/problems/kth-distinct-string-in-an-array)
+- **2024/09/12** - [Problem 3248: Snake in Matrix](https://leetcode.com/problems/snake-in-matrix)
