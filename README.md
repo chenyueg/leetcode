@@ -103,3 +103,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2024/09/11** - [Problem 2053: Kth Distinct String in an Array](https://leetcode.com/problems/kth-distinct-string-in-an-array)
 - **2024/09/12** - [Problem 3248: Snake in Matrix](https://leetcode.com/problems/snake-in-matrix)
 - **2024/09/13** - [Problem 1347: Minimum Number of Steps to Make Two Strings Anagram](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram)
+- **2024/09/19** - [Problem 3289: The Two Sneaky Numbers of Digitville](https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville)
