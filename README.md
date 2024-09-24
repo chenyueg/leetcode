@@ -106,3 +106,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2024/09/19** - [Problem 3289: The Two Sneaky Numbers of Digitville](https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville)
 - **2024/09/20** - [Problem 3285: Find Indices of Stable Mountains](https://leetcode.com/problems/find-indices-of-stable-mountains)
 - **2024/09/23** - [Problem 3158: Find the XOR of Numbers Which Appear Twice](https://leetcode.com/problems/find-the-xor-of-numbers-which-appear-twice)
+- **2024/09/24** - [Problem 980: Unique Paths III](https://leetcode.com/problems/unique-paths-iii)
