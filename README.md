@@ -107,3 +107,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2024/09/20** - [Problem 3285: Find Indices of Stable Mountains](https://leetcode.com/problems/find-indices-of-stable-mountains)
 - **2024/09/23** - [Problem 3158: Find the XOR of Numbers Which Appear Twice](https://leetcode.com/problems/find-the-xor-of-numbers-which-appear-twice)
 - **2024/09/24** - [Problem 980: Unique Paths III](https://leetcode.com/problems/unique-paths-iii)
+- **2024/09/25** - [Problem 1255: Maximum Score Words Formed by Letters](https://leetcode.com/problems/maximum-score-words-formed-by-letters)
