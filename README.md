@@ -108,3 +108,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2024/09/23** - [Problem 3158: Find the XOR of Numbers Which Appear Twice](https://leetcode.com/problems/find-the-xor-of-numbers-which-appear-twice)
 - **2024/09/24** - [Problem 980: Unique Paths III](https://leetcode.com/problems/unique-paths-iii)
 - **2024/09/25** - [Problem 1255: Maximum Score Words Formed by Letters](https://leetcode.com/problems/maximum-score-words-formed-by-letters)
+- **2024/09/26** - [Problem 2744: Find Maximum Number of String Pairs](https://leetcode.com/problems/find-maximum-number-of-string-pairs)
