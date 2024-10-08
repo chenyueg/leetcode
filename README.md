@@ -112,3 +112,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2024/09/30** - [Problem 3300: Minimum Element After Replacement With Digit Sum](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum)
 - **2024/10/01** - [Problem 2778: Sum of Squares of Special Elements ](https://leetcode.com/problems/sum-of-squares-of-special-elements)
 - **2024/10/03** - [Problem 1669: Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists)
+- **2024/10/08** - [Problem 1823: Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game)
