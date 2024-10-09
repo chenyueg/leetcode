@@ -114,3 +114,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2024/10/03** - [Problem 1669: Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists)
 - **2024/10/07** - [Problem 3264: Final Array State After K Multiplication Operations I](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i)
 - **2024/10/08** - [Problem 1823: Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game)
+- **2024/10/09** - [Problem 2196: Create Binary Tree From Descriptions](https://leetcode.com/problems/create-binary-tree-from-descriptions)
