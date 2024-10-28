@@ -119,3 +119,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2024/10/11** - [Problem 2678: Number of Senior Citizens](https://leetcode.com/problems/number-of-senior-citizens)
 - **2024/10/14** - [Problem 2657: Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays)
 - **2024/10/15** - [Problem 1534: Count Good Triplets](https://leetcode.com/problems/count-good-triplets)
+- **2024/10/28** - [Problem 2044: Count Number of Maximum Bitwise-OR Subsets](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets)
