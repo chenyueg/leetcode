@@ -121,3 +121,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2024/10/15** - [Problem 1534: Count Good Triplets](https://leetcode.com/problems/count-good-triplets)
 - **2024/10/28** - [Problem 2044: Count Number of Maximum Bitwise-OR Subsets](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets)
 - **2024/11/01** - [Problem 1877: Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array)
+- **2024/11/04** - [Problem 3340: Check Balanced String](https://leetcode.com/problems/check-balanced-string)
