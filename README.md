@@ -123,3 +123,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2024/11/01** - [Problem 1877: Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array)
 - **2024/11/04** - [Problem 3340: Check Balanced String](https://leetcode.com/problems/check-balanced-string)
 - **2024/11/18** - [Problem 1829: Maximum XOR for Each Query](https://leetcode.com/problems/maximum-xor-for-each-query)
+- **2024/12/02** - [Problem 1967: Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word)
