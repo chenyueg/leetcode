@@ -126,3 +126,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2024/12/02** - [Problem 1967: Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word)
 - **2024/12/03** - [Problem 1768: Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately)
 - **2024/12/23** - [Problem 2415: Reverse Odd Levels of Binary Tree](https://leetcode.com/problems/reverse-odd-levels-of-binary-tree)
+- **2025/01/06** - [Problem 2130: Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list)
