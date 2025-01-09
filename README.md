@@ -129,3 +129,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2025/01/06** - [Problem 2130: Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list)
 - **2025/01/07** - [Problem 1557: Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes)
 - **2025/01/08** - [Problem 2275: Largest Combination With Bitwise AND Greater Than Zero](https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero)
+- **2025/01/09** - [Problem 2103: Rings and Rods](https://leetcode.com/problems/rings-and-rods)
