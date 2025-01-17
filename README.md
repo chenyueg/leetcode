@@ -132,3 +132,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2025/01/09** - [Problem 2103: Rings and Rods](https://leetcode.com/problems/rings-and-rods)
 - **2025/01/14** - [Problem 2185: Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix)
 - **2025/01/16** - [Problem 2119: A Number After a Double Reversal](https://leetcode.com/problems/a-number-after-a-double-reversal)
+- **2025/01/17** - [Problem 2785: Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string)
