@@ -135,3 +135,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2025/01/17** - [Problem 2785: Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string)
 - **2025/01/24** - [Problem 1827: Minimum Operations to Make the Array Increasing](https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing)
 - **2025/01/27** - [Problem 3427: Sum of Variable Length Subarrays](https://leetcode.com/problems/sum-of-variable-length-subarrays)
+- **2025/01/30** - [Problem 590: N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal)
