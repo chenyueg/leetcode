@@ -138,3 +138,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2025/01/30** - [Problem 590: N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal)
 - **2025/02/03** - [Problem 3324: Find the Sequence of Strings Appeared on the Screen](https://leetcode.com/problems/find-the-sequence-of-strings-appeared-on-the-screen)
 - **2025/02/05** - [Problem 1381: Design a Stack With Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation)
+- **2025/02/10** - [Problem 3174: Clear Digits](https://leetcode.com/problems/clear-digits)
