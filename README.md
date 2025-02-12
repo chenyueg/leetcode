@@ -140,3 +140,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2025/02/05** - [Problem 1381: Design a Stack With Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation)
 - **2025/02/10** - [Problem 3174: Clear Digits](https://leetcode.com/problems/clear-digits)
 - **2025/02/11** - [Problem 3151: Special Array I](https://leetcode.com/problems/special-array-i)
+- **2025/02/12** - [Problem 3258: Count Substrings That Satisfy K-Constraint I](https://leetcode.com/problems/count-substrings-that-satisfy-k-constraint-i)
