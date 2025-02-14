@@ -142,3 +142,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2025/02/11** - [Problem 3151: Special Array I](https://leetcode.com/problems/special-array-i)
 - **2025/02/12** - [Problem 3258: Count Substrings That Satisfy K-Constraint I](https://leetcode.com/problems/count-substrings-that-satisfy-k-constraint-i)
 - **2025/02/13** - [Problem 1817: Finding the Users Active Minutes](https://leetcode.com/problems/finding-the-users-active-minutes)
+- **2025/02/14** - [Problem 2683: Neighboring Bitwise XOR](https://leetcode.com/problems/neighboring-bitwise-xor)
