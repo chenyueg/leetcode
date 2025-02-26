@@ -145,3 +145,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2025/02/14** - [Problem 2683: Neighboring Bitwise XOR](https://leetcode.com/problems/neighboring-bitwise-xor)
 - **2025/02/18** - [Problem 2375: Construct Smallest Number From DI String](https://leetcode.com/problems/construct-smallest-number-from-di-string)
 - **2025/02/20** - [Problem 1079: Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities)
+- **2025/02/26** - [Problem 1028: Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal)
