@@ -149,3 +149,5 @@ One LeetCode problem a day, keeps layoffs away!
 - **2025/02/27** - [Problem 2698: Find the Punishment Number of an Integer](https://leetcode.com/problems/find-the-punishment-number-of-an-integer)
 - **2025/02/28** - [Problem 2215: Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays)
 - **2025/03/13** - [Problem 3467: Transform Array by Parity](https://leetcode.com/problems/transform-array-by-parity)
+- **2025/03/14** - [Problem 2695: Array Wrapper](https://leetcode.com/problems/array-wrapper)
+- **2025/03/14** - [Problem 2965: Find Missing and Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values)
