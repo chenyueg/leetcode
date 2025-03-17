@@ -137,3 +137,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2025/01/27** - [Problem 3427: Sum of Variable Length Subarrays](https://leetcode.com/problems/sum-of-variable-length-subarrays)
 - **2025/01/30** - [Problem 590: N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal)
 - **2025/02/03** - [Problem 3324: Find the Sequence of Strings Appeared on the Screen](https://leetcode.com/problems/find-the-sequence-of-strings-appeared-on-the-screen)
+- **2025/03/17** - [Problem 2570: Merge Two 2D Arrays by Summing Values](https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values)
