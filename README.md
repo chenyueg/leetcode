@@ -151,3 +151,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2025/03/13** - [Problem 3467: Transform Array by Parity](https://leetcode.com/problems/transform-array-by-parity)
 - **2025/03/14** - [Problem 2695: Array Wrapper](https://leetcode.com/problems/array-wrapper)
 - **2025/03/14** - [Problem 2965: Find Missing and Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values)
+- **2025/03/18** - [Problem 3432: Count Partitions with Even Sum Difference](https://leetcode.com/problems/count-partitions-with-even-sum-difference)
