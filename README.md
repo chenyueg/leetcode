@@ -154,3 +154,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2025/03/17** - [Problem 2570: Merge Two 2D Arrays by Summing Values](https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values)
 - **2025/03/18** - [Problem 3432: Count Partitions with Even Sum Difference](https://leetcode.com/problems/count-partitions-with-even-sum-difference)
 - **2025/03/19** - [Problem 3019: Number of Changing Keys](https://leetcode.com/problems/number-of-changing-keys)
+- **2025/03/31** - [Problem 3498: Reverse Degree of a String](https://leetcode.com/problems/reverse-degree-of-a-string)
