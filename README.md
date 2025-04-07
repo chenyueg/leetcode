@@ -155,3 +155,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2025/03/18** - [Problem 3432: Count Partitions with Even Sum Difference](https://leetcode.com/problems/count-partitions-with-even-sum-difference)
 - **2025/03/19** - [Problem 3019: Number of Changing Keys](https://leetcode.com/problems/number-of-changing-keys)
 - **2025/03/31** - [Problem 3498: Reverse Degree of a String](https://leetcode.com/problems/reverse-degree-of-a-string)
+- **2025/04/07** - [Problem 3502: Minimum Cost to Reach Every Position](https://leetcode.com/problems/minimum-cost-to-reach-every-position)
