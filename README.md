@@ -158,3 +158,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2025/04/07** - [Problem 3502: Minimum Cost to Reach Every Position](https://leetcode.com/problems/minimum-cost-to-reach-every-position)
 - **2025/04/09** - [Problem 3191: Minimum Operations to Make Binary Array Elements Equal to One I](https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i)
 - **2025/04/11** - [Problem 2843:  Count Symmetric Integers](https://leetcode.com/problems/count-symmetric-integers)
+- **2025/04/14** - [Problem 3512: Minimum Operations to Make Array Sum Divisible by K](https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k)
