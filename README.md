@@ -160,3 +160,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2025/04/11** - [Problem 2843:  Count Symmetric Integers](https://leetcode.com/problems/count-symmetric-integers)
 - **2025/04/14** - [Problem 3512: Minimum Operations to Make Array Sum Divisible by K](https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k)
 - **2025/04/21** - [Problem 2176: Count Equal and Divisible Pairs in an Array](https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array)
+- **2025/04/28** - [Problem 3516: Find Closest Person](https://leetcode.com/problems/find-closest-person)
