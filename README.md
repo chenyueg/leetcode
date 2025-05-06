@@ -162,3 +162,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2025/04/21** - [Problem 2176: Count Equal and Divisible Pairs in an Array](https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array)
 - **2025/04/28** - [Problem 3516: Find Closest Person](https://leetcode.com/problems/find-closest-person)
 - **2025/05/05** - [Problem 861: Score After Flipping Matrix](https://leetcode.com/problems/score-after-flipping-matrix)
+- **2025/05/06** - [Problem 1636: Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency)
