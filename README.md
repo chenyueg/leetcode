@@ -165,3 +165,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2025/05/06** - [Problem 1636: Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency)
 - **2025/05/19** - [Problem 2442: Count Number of Distinct Integers After Reverse Operations](https://leetcode.com/problems/count-number-of-distinct-integers-after-reverse-operations)
 - **2025/05/27** - [Problem 3541: Find Most Frequent Vowel and Consonant](https://leetcode.com/problems/find-most-frequent-vowel-and-consonant)
+- **2025/05/27** - [Problem 2079: Watering Plants](https://leetcode.com/problems/watering-plants)
