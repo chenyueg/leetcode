@@ -164,3 +164,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2025/05/05** - [Problem 861: Score After Flipping Matrix](https://leetcode.com/problems/score-after-flipping-matrix)
 - **2025/05/06** - [Problem 1636: Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency)
 - **2025/05/19** - [Problem 2442: Count Number of Distinct Integers After Reverse Operations](https://leetcode.com/problems/count-number-of-distinct-integers-after-reverse-operations)
+- **2025/06/13** - [Problem 1061: Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string)
