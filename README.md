@@ -168,3 +168,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2025/05/27** - [Problem 2079: Watering Plants](https://leetcode.com/problems/watering-plants)
 - **2025/06/13** - [Problem 1061: Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string)
 - **2025/06/16** - [Problem 2553: Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array)
+- **2025/06/23** - [Problem 2294: Partition Array Such That Maximum Difference Is K](https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k)
