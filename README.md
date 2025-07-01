@@ -170,3 +170,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2025/06/16** - [Problem 2553: Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array)
 - **2025/06/23** - [Problem 2294: Partition Array Such That Maximum Difference Is K](https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k)
 - **2025/06/24** - [Problem 2200: Find All K-Distant Indices in an Array](https://leetcode.com/problems/find-all-k-distant-indices-in-an-array)
+- **2025/07/01** - [Problem 3330: Find the Original Typed String I](https://leetcode.com/problems/find-the-original-typed-string-i)
