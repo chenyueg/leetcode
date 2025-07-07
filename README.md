@@ -171,3 +171,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2025/06/23** - [Problem 2294: Partition Array Such That Maximum Difference Is K](https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k)
 - **2025/06/24** - [Problem 2200: Find All K-Distant Indices in an Array](https://leetcode.com/problems/find-all-k-distant-indices-in-an-array)
 - **2025/06/30** - [Problem 594: Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence)
+- **2025/07/07** - [Problem 1353: Maximum Number of Events That Can Be Attended](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended)
