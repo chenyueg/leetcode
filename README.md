@@ -174,3 +174,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2025/07/01** - [Problem 3330: Find the Original Typed String I](https://leetcode.com/problems/find-the-original-typed-string-i)
 - **2025/07/02** - [Problem 1441: Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations)
 - **2025/07/03** - [Problem 3304: Find the K-th Character in String Game I](https://leetcode.com/problems/find-the-k-th-character-in-string-game-i)
+- **2025/07/09** - [Problem 3439: Reschedule Meetings for Maximum Free Time I](https://leetcode.com/problems/reschedule-meetings-for-maximum-free-time-i)
