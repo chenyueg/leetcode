@@ -176,3 +176,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2025/07/03** - [Problem 3304: Find the K-th Character in String Game I](https://leetcode.com/problems/find-the-k-th-character-in-string-game-i)
 - **2025/07/07** - [Problem 1353: Maximum Number of Events That Can Be Attended](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended)
 - **2025/07/09** - [Problem 3439: Reschedule Meetings for Maximum Free Time I](https://leetcode.com/problems/reschedule-meetings-for-maximum-free-time-i)
+- **2025/07/11** - [Problem 1309: Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping)
