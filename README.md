@@ -179,3 +179,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2025/07/11** - [Problem 1309: Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping)
 - **2025/07/14** - [Problem 1290: Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer)
 - **2025/07/15** - [Problem 3136: Valid Word](https://leetcode.com/problems/valid-word)
+- **2025/07/16** - [Problem 3201: Find the Maximum Length of Valid Subsequence I](https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-i)
