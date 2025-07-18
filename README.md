@@ -181,3 +181,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2025/07/15** - [Problem 3136: Valid Word](https://leetcode.com/problems/valid-word)
 - **2025/07/16** - [Problem 3201: Find the Maximum Length of Valid Subsequence I](https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-i)
 - **2025/07/17** - [Problem 3202: Find the Maximum Length of Valid Subsequence II](https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-ii)
+- **2025/07/18** - [Problem 2163: Minimum Difference in Sums After Removal of Elements](https://leetcode.com/problems/minimum-difference-in-sums-after-removal-of-elements)
