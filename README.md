@@ -185,3 +185,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2025/07/21** - [Problem 1957: Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string)
 - **2025/07/23** - [Problem 1717: Maximum Score From Removing Substrings](https://leetcode.com/problems/maximum-score-from-removing-substrings)
 - **2025/07/24** - [Problem 1380: Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix)
+- **2025/07/25** - [Problem 3487: Maximum Unique Subarray Sum After Deletion](https://leetcode.com/problems/maximum-unique-subarray-sum-after-deletion)
