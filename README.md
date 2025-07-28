@@ -186,3 +186,5 @@ One LeetCode problem a day, keeps layoffs away!
 - **2025/07/23** - [Problem 1717: Maximum Score From Removing Substrings](https://leetcode.com/problems/maximum-score-from-removing-substrings)
 - **2025/07/24** - [Problem 1380: Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix)
 - **2025/07/25** - [Problem 3487: Maximum Unique Subarray Sum After Deletion](https://leetcode.com/problems/maximum-unique-subarray-sum-after-deletion)
+- **2025/07/28** - [Problem 1380: Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix)
+- **2025/07/28** - [Problem 3016: Minimum Number of Pushes to Type Word II](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii)
