@@ -190,3 +190,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2025/07/28** - [Problem 3016: Minimum Number of Pushes to Type Word II](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii)
 - **2025/07/29** - [Problem 2411: Smallest Subarrays With Maximum Bitwise OR](https://leetcode.com/problems/smallest-subarrays-with-maximum-bitwise-or)
 - **2025/07/30** - [Problem 2419: Longest Subarray With Maximum Bitwise AND](https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and)
+- **2025/08/04** - [Problem 904: Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets)
