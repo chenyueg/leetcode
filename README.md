@@ -191,3 +191,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2025/07/29** - [Problem 2411: Smallest Subarrays With Maximum Bitwise OR](https://leetcode.com/problems/smallest-subarrays-with-maximum-bitwise-or)
 - **2025/07/30** - [Problem 2419: Longest Subarray With Maximum Bitwise AND](https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and)
 - **2025/08/04** - [Problem 904: Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets)
+- **2025/08/05** - [Problem 3477: Fruits Into Baskets II](https://leetcode.com/problems/fruits-into-baskets-ii)
