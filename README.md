@@ -193,3 +193,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2025/08/04** - [Problem 904: Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets)
 - **2025/08/05** - [Problem 3477: Fruits Into Baskets II](https://leetcode.com/problems/fruits-into-baskets-ii)
 - **2025/08/07** - [Problem 3550: Smallest Index With Digit Sum Equal to Index](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index)
+- **2025/08/11** - [Problem 2438: Range Product Queries of Powers](https://leetcode.com/problems/range-product-queries-of-powers)
