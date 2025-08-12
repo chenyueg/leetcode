@@ -193,3 +193,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2025/08/04** - [Problem 904: Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets)
 - **2025/08/05** - [Problem 3477: Fruits Into Baskets II](https://leetcode.com/problems/fruits-into-baskets-ii)
 - **2025/08/07** - [Problem 3550: Smallest Index With Digit Sum Equal to Index](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index)
+- **2025/08/12** - [Problem 2317: Maximum XOR After Operations ](https://leetcode.com/problems/maximum-xor-after-operations)
