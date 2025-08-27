@@ -196,3 +196,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2025/08/11** - [Problem 2438: Range Product Queries of Powers](https://leetcode.com/problems/range-product-queries-of-powers)
 - **2025/08/12** - [Problem 2317: Maximum XOR After Operations ](https://leetcode.com/problems/maximum-xor-after-operations)
 - **2025/08/14** - [Problem 2264: Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string)
+- **2025/08/27** - [Problem 3658: GCD of Odd and Even Sums](https://leetcode.com/problems/gcd-of-odd-and-even-sums)
