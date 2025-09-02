@@ -200,3 +200,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2025/08/25** - [Problem 498: Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse)
 - **2025/08/26** - [Problem 3000: Maximum Area of Longest Diagonal Rectangle](https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle)
 - **2025/08/27** - [Problem 3658: GCD of Odd and Even Sums](https://leetcode.com/problems/gcd-of-odd-and-even-sums)
+- **2025/09/02** - [Problem 3025: Find the Number of Ways to Place People I](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-i)
