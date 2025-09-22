@@ -202,3 +202,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2025/08/27** - [Problem 3658: GCD of Odd and Even Sums](https://leetcode.com/problems/gcd-of-odd-and-even-sums)
 - **2025/09/02** - [Problem 3025: Find the Number of Ways to Place People I](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-i)
 - **2025/09/08** - [Problem 1317: Convert Integer to the Sum of Two No-Zero Integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers)
+- **2025/09/22** - [Problem 3005: Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency)
