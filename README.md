@@ -204,3 +204,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2025/09/08** - [Problem 1317: Convert Integer to the Sum of Two No-Zero Integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers)
 - **2025/09/19** - [Problem 3484: Design Spreadsheet](https://leetcode.com/problems/design-spreadsheet)
 - **2025/09/22** - [Problem 3005: Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency)
+- **2025/09/29** - [Problem 3668: Restore Finishing Order](https://leetcode.com/problems/restore-finishing-order)
