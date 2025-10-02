@@ -199,3 +199,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2025/08/19** - [Problem 2348: Number of Zero-Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays)
 - **2025/08/25** - [Problem 498: Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse)
 - **2025/08/26** - [Problem 3000: Maximum Area of Longest Diagonal Rectangle](https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle)
+- **2025/10/02** - [Problem 3446: Sort Matrix by Diagonals](https://leetcode.com/problems/sort-matrix-by-diagonals)
