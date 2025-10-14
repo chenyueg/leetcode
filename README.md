@@ -206,3 +206,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2025/09/22** - [Problem 3005: Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency)
 - **2025/09/29** - [Problem 3668: Restore Finishing Order](https://leetcode.com/problems/restore-finishing-order)
 - **2025/09/30** - [Problem 1935: Maximum Number of Words You Can Type](https://leetcode.com/problems/maximum-number-of-words-you-can-type)
+- **2025/10/14** - [Problem 3349: Adjacent Increasing Subarrays Detection I](https://leetcode.com/problems/adjacent-increasing-subarrays-detection-i)
