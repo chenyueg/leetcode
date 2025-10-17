@@ -209,3 +209,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2025/10/02** - [Problem 3446: Sort Matrix by Diagonals](https://leetcode.com/problems/sort-matrix-by-diagonals)
 - **2025/10/14** - [Problem 3349: Adjacent Increasing Subarrays Detection I](https://leetcode.com/problems/adjacent-increasing-subarrays-detection-i)
 - **2025/10/16** - [Problem 3701: Compute Alternating Sum](https://leetcode.com/problems/compute-alternating-sum)
+- **2025/10/17** - [Problem 3683: Earliest Time to Finish One Task](https://leetcode.com/problems/earliest-time-to-finish-one-task)
