@@ -211,3 +211,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2025/10/16** - [Problem 3701: Compute Alternating Sum](https://leetcode.com/problems/compute-alternating-sum)
 - **2025/10/17** - [Problem 3683: Earliest Time to Finish One Task](https://leetcode.com/problems/earliest-time-to-finish-one-task)
 - **2025/10/20** - [Problem 2011: Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations)
+- **2025/10/21** - [Problem 3346: Maximum Frequency of an Element After Performing Operations I](https://leetcode.com/problems/maximum-frequency-of-an-element-after-performing-operations-i)
