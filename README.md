@@ -213,3 +213,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2025/10/20** - [Problem 2011: Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations)
 - **2025/10/21** - [Problem 3346: Maximum Frequency of an Element After Performing Operations I](https://leetcode.com/problems/maximum-frequency-of-an-element-after-performing-operations-i)
 - **2025/10/22** - [Problem 2221: Find Triangular Sum of an Array](https://leetcode.com/problems/find-triangular-sum-of-an-array)
+- **2025/10/24** - [Problem 2048: Next Greater Numerically Balanced Number](https://leetcode.com/problems/next-greater-numerically-balanced-number)
