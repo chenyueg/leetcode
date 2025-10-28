@@ -214,3 +214,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2025/10/21** - [Problem 3346: Maximum Frequency of an Element After Performing Operations I](https://leetcode.com/problems/maximum-frequency-of-an-element-after-performing-operations-i)
 - **2025/10/22** - [Problem 2221: Find Triangular Sum of an Array](https://leetcode.com/problems/find-triangular-sum-of-an-array)
 - **2025/10/24** - [Problem 2048: Next Greater Numerically Balanced Number](https://leetcode.com/problems/next-greater-numerically-balanced-number)
+- **2025/10/28** - [Problem 3354: Make Array Elements Equal to Zero](https://leetcode.com/problems/make-array-elements-equal-to-zero)
