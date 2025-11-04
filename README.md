@@ -215,3 +215,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2025/10/22** - [Problem 2221: Find Triangular Sum of an Array](https://leetcode.com/problems/find-triangular-sum-of-an-array)
 - **2025/10/24** - [Problem 2048: Next Greater Numerically Balanced Number](https://leetcode.com/problems/next-greater-numerically-balanced-number)
 - **2025/10/28** - [Problem 3354: Make Array Elements Equal to Zero](https://leetcode.com/problems/make-array-elements-equal-to-zero)
+- **2025/11/04** - [Problem 3318: Find X-Sum of All K-Long Subarrays I](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i)
