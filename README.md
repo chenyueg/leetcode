@@ -218,4 +218,6 @@ One LeetCode problem a day, keeps layoffs away!
 - **2025/11/04** - [Problem 3318: Find X-Sum of All K-Long Subarrays I](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i)
 - **2025/11/05** - [Problem 1716: Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank)
 - **2025/11/06** - [Problem 3461: Check If Digits Are Equal in String After Operations I](https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-i)
+- **2025/11/10** - [Problem 3542: Minimum Operations to Convert All Elements to Zero](https://leetcode.com/problems/minimum-operations-to-convert-all-elements-to-zero)
+- **2025/11/17** - [Problem 1437: Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away)
 - **2025/11/18** - [Problem 717: 1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters)
