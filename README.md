@@ -224,4 +224,5 @@ One LeetCode problem a day, keeps layoffs away!
 - **2025/11/19** - [Problem 2154: Keep Multiplying Found Values by Two](https://leetcode.com/problems/keep-multiplying-found-values-by-two)
 - **2025/11/20** - [Problem 3688: Bitwise OR of Even Numbers in an Array](https://leetcode.com/problems/bitwise-or-of-even-numbers-in-an-array)
 - **2025/11/21** - [Problem 3731: Find Missing Elements](https://leetcode.com/problems/find-missing-elements)
+- **2025/12/01** - [Problem 3760: Maximum Substrings With Distinct Start](https://leetcode.com/problems/maximum-substrings-with-distinct-start)
 - **2025/12/02** - [Problem 3602: Hexadecimal and Hexatrigesimal Conversion](https://leetcode.com/problems/hexadecimal-and-hexatrigesimal-conversion)
