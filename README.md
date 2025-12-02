@@ -222,3 +222,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2025/11/17** - [Problem 1437: Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away)
 - **2025/11/18** - [Problem 717: 1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters)
 - **2025/11/19** - [Problem 2154: Keep Multiplying Found Values by Two](https://leetcode.com/problems/keep-multiplying-found-values-by-two)
+- **2025/12/01** - [Problem 3760: Maximum Substrings With Distinct Start](https://leetcode.com/problems/maximum-substrings-with-distinct-start)
