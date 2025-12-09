@@ -227,3 +227,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2025/12/01** - [Problem 3760: Maximum Substrings With Distinct Start](https://leetcode.com/problems/maximum-substrings-with-distinct-start)
 - **2025/12/02** - [Problem 3602: Hexadecimal and Hexatrigesimal Conversion](https://leetcode.com/problems/hexadecimal-and-hexatrigesimal-conversion)
 - **2025/12/05** - [Problem 3370: Smallest Number With All Set Bits](https://leetcode.com/problems/smallest-number-with-all-set-bits)
+- **2025/12/09** - [Problem 2169: Count Operations to Obtain Zero](https://leetcode.com/problems/count-operations-to-obtain-zero)
