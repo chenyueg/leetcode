@@ -230,4 +230,5 @@ One LeetCode problem a day, keeps layoffs away!
 - **2025/12/09** - [Problem 2169: Count Operations to Obtain Zero](https://leetcode.com/problems/count-operations-to-obtain-zero)
 - **2025/12/10** - [Problem 3736: Minimum Moves to Equal Array Elements III](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii)
 - **2025/12/19** - [Problem 3751: Total Waviness of Numbers in Range I](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i)
+- **2025/12/22** - [Problem 3783: Mirror Distance of an Integer](https://leetcode.com/problems/mirror-distance-of-an-integer)
 - **2026/01/15** - [Problem 3794: Reverse String Prefix](https://leetcode.com/problems/reverse-string-prefix)
