@@ -233,3 +233,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2025/12/22** - [Problem 3783: Mirror Distance of an Integer](https://leetcode.com/problems/mirror-distance-of-an-integer)
 - **2026/01/15** - [Problem 3794: Reverse String Prefix](https://leetcode.com/problems/reverse-string-prefix)
 - **2026/01/16** - [Problem 2975: Maximum Square Area by Removing Fences From a Field](https://leetcode.com/problems/maximum-square-area-by-removing-fences-from-a-field)
+- **2026/01/20** - [Problem 3314: Construct the Minimum Bitwise Array I](https://leetcode.com/problems/construct-the-minimum-bitwise-array-i)
