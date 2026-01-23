@@ -236,3 +236,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2026/01/20** - [Problem 3314: Construct the Minimum Bitwise Array I](https://leetcode.com/problems/construct-the-minimum-bitwise-array-i)
 - **2026/01/21** - [Problem 3315: Construct the Minimum Bitwise Array II](https://leetcode.com/problems/construct-the-minimum-bitwise-array-ii)
 - **2026/01/22** - [Problem 1411: Number of Ways to Paint N × 3 Grid](https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid)
+- **2026/01/23** - [Problem 682: Baseball Game](https://leetcode.com/problems/baseball-game)
