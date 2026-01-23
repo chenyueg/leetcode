@@ -235,3 +235,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2026/01/16** - [Problem 2975: Maximum Square Area by Removing Fences From a Field](https://leetcode.com/problems/maximum-square-area-by-removing-fences-from-a-field)
 - **2026/01/20** - [Problem 3314: Construct the Minimum Bitwise Array I](https://leetcode.com/problems/construct-the-minimum-bitwise-array-i)
 - **2026/01/21** - [Problem 3315: Construct the Minimum Bitwise Array II](https://leetcode.com/problems/construct-the-minimum-bitwise-array-ii)
+- **2026/01/22** - [Problem 1411: Number of Ways to Paint N × 3 Grid](https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid)
