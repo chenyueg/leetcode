@@ -239,3 +239,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2026/01/23** - [Problem 682: Baseball Game](https://leetcode.com/problems/baseball-game)
 - **2026/01/27** - [Problem 2427: Number of Common Factors](https://leetcode.com/problems/number-of-common-factors)
 - **2026/01/30** - [Problem 1812: Determine Color of a Chessboard Square](https://leetcode.com/problems/determine-color-of-a-chessboard-square)
+- **2026/02/03** - [Problem 3637: Trionic Array I](https://leetcode.com/problems/trionic-array-i)
