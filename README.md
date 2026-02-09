@@ -240,3 +240,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2026/01/27** - [Problem 2427: Number of Common Factors](https://leetcode.com/problems/number-of-common-factors)
 - **2026/01/30** - [Problem 1812: Determine Color of a Chessboard Square](https://leetcode.com/problems/determine-color-of-a-chessboard-square)
 - **2026/02/03** - [Problem 3637: Trionic Array I](https://leetcode.com/problems/trionic-array-i)
+- **2026/02/09** - [Problem 1382: Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree)
