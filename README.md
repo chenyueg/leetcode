@@ -242,3 +242,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2026/02/03** - [Problem 3637: Trionic Array I](https://leetcode.com/problems/trionic-array-i)
 - **2026/02/09** - [Problem 1382: Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree)
 - **2026/02/10** - [Problem 3719: Longest Balanced Subarray I](https://leetcode.com/problems/longest-balanced-subarray-i)
+- **2026/02/11** - [Problem 3823: Reverse Letters Then Special Characters in a String](https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string)
