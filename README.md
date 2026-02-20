@@ -243,3 +243,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2026/02/09** - [Problem 1382: Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree)
 - **2026/02/10** - [Problem 3719: Longest Balanced Subarray I](https://leetcode.com/problems/longest-balanced-subarray-i)
 - **2026/02/11** - [Problem 3823: Reverse Letters Then Special Characters in a String](https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string)
+- **2026/02/20** - [Problem 3838: Weighted Word Mapping](https://leetcode.com/problems/weighted-word-mapping)
