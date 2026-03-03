@@ -247,3 +247,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2026/02/20** - [Problem 3838: Weighted Word Mapping](https://leetcode.com/problems/weighted-word-mapping)
 - **2026/02/27** - [Problem 1356: Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits)
 - **2026/03/02** - [Problem 1536: Minimum Swaps to Arrange a Binary Grid](https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid)
+- **2026/03/03** - [Problem 1545: Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string)
