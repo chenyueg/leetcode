@@ -246,3 +246,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2026/02/17** - [Problem 401: Binary Watch](https://leetcode.com/problems/binary-watch)
 - **2026/02/20** - [Problem 3838: Weighted Word Mapping](https://leetcode.com/problems/weighted-word-mapping)
 - **2026/02/27** - [Problem 1356: Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits)
+- **2026/03/04** - [Problem 1582: Special Positions in a Binary Matrix](https://leetcode.com/problems/special-positions-in-a-binary-matrix)
