@@ -249,3 +249,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2026/03/02** - [Problem 1536: Minimum Swaps to Arrange a Binary Grid](https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid)
 - **2026/03/03** - [Problem 1545: Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string)
 - **2026/03/04** - [Problem 1582: Special Positions in a Binary Matrix](https://leetcode.com/problems/special-positions-in-a-binary-matrix)
+- **2026/03/05** - [Problem 1784: Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones)
