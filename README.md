@@ -252,3 +252,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2026/03/05** - [Problem 1784: Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones)
 - **2026/03/06** - [Problem 3857: Minimum Cost to Split into Ones](https://leetcode.com/problems/minimum-cost-to-split-into-ones)
 - **2026/03/10** - [Problem 1980: Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string)
+- **2026/03/11** - [Problem 1009: Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer)
