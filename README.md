@@ -253,3 +253,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2026/03/06** - [Problem 3857: Minimum Cost to Split into Ones](https://leetcode.com/problems/minimum-cost-to-split-into-ones)
 - **2026/03/10** - [Problem 1980: Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string)
 - **2026/03/11** - [Problem 1009: Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer)
+- **2026/03/17** - [Problem 3010: Divide an Array Into Subarrays With Minimum Cost I](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i)
