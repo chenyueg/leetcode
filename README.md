@@ -256,3 +256,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2026/03/17** - [Problem 3010: Divide an Array Into Subarrays With Minimum Cost I](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i)
 - **2026/03/18** - [Problem 3070: Count Submatrices with Top-Left Element and Sum Less Than k](https://leetcode.com/problems/count-submatrices-with-top-left-element-and-sum-less-than-k)
 - **2026/03/19** - [Problem 3212: Count Submatrices With Equal Frequency of X and Y](https://leetcode.com/problems/count-submatrices-with-equal-frequency-of-x-and-y)
+- **2026/03/23** - [Problem 1594: Maximum Non Negative Product in a Matrix](https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix)
