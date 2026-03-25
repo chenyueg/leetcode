@@ -258,3 +258,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2026/03/19** - [Problem 3212: Count Submatrices With Equal Frequency of X and Y](https://leetcode.com/problems/count-submatrices-with-equal-frequency-of-x-and-y)
 - **2026/03/23** - [Problem 1594: Maximum Non Negative Product in a Matrix](https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix)
 - **2026/03/24** - [Problem 2906: Construct Product Matrix](https://leetcode.com/problems/construct-product-matrix)
+- **2026/03/25** - [Problem 3546: Equal Sum Grid Partition I](https://leetcode.com/problems/equal-sum-grid-partition-i)
