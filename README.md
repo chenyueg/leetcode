@@ -261,3 +261,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2026/03/25** - [Problem 3546: Equal Sum Grid Partition I](https://leetcode.com/problems/equal-sum-grid-partition-i)
 - **2026/03/26** - [Problem 1727: Largest Submatrix With Rearrangements](https://leetcode.com/problems/largest-submatrix-with-rearrangements)
 - **2026/03/30** - [Problem 2840: Check if Strings Can be Made Equal With Operations II](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-ii)
+- **2026/04/01** - [Problem 3884: First Matching Character From Both Ends](https://leetcode.com/problems/first-matching-character-from-both-ends)
