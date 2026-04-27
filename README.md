@@ -266,3 +266,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2026/04/06** - [Problem 874: Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation)
 - **2026/04/14** - [Problem 3898: Find the Degree of Each Vertex](https://leetcode.com/problems/find-the-degree-of-each-vertex)
 - **2026/04/20** - [Problem 2078: Two Furthest Houses With Different Colors](https://leetcode.com/problems/two-furthest-houses-with-different-colors)
+- **2026/04/27** - [Problem 1391: Check if There is a Valid Path in a Grid](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid)
