@@ -273,3 +273,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2026/05/27** - [Problem 3121: Count the Number of Special Characters II](https://leetcode.com/problems/count-the-number-of-special-characters-ii)
 - **2026/05/28** - [Problem 3925: Concatenate Array With Reverse](https://leetcode.com/problems/concatenate-array-with-reverse)
 - **2026/06/02** - [Problem 3633: Earliest Finish Time for Land and Water Rides I](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i)
+- **2026/06/08** - [Problem 2161: Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot)
