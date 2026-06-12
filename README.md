@@ -274,3 +274,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2026/05/28** - [Problem 3925: Concatenate Array With Reverse](https://leetcode.com/problems/concatenate-array-with-reverse)
 - **2026/06/02** - [Problem 3633: Earliest Finish Time for Land and Water Rides I](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i)
 - **2026/06/08** - [Problem 2161: Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot)
+- **2026/06/12** - [Problem 3945: Digit Frequency Score](https://leetcode.com/problems/digit-frequency-score)
