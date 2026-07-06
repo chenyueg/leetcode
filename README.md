@@ -277,3 +277,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2026/06/12** - [Problem 3945: Digit Frequency Score](https://leetcode.com/problems/digit-frequency-score)
 - **2026/06/19** - [Problem 1732: Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude)
 - **2026/06/29** - [Problem 1979: Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array)
+- **2026/07/06** - [Problem 1288: Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals)
