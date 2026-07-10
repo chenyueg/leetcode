@@ -276,3 +276,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2026/06/08** - [Problem 2161: Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot)
 - **2026/06/12** - [Problem 3945: Digit Frequency Score](https://leetcode.com/problems/digit-frequency-score)
 - **2026/06/19** - [Problem 1732: Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude)
+- **2026/07/09** - [Problem 3959: Check Good Integer](https://leetcode.com/problems/check-good-integer)
