@@ -278,4 +278,6 @@ One LeetCode problem a day, keeps layoffs away!
 - **2026/06/19** - [Problem 1732: Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude)
 - **2026/06/29** - [Problem 1979: Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array)
 - **2026/07/06** - [Problem 1288: Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals)
+- **2026/07/09** - [Problem 3959: Check Good Integer](https://leetcode.com/problems/check-good-integer)
+- **2026/07/10** - [Problem 3894: Traffic Signal Color](https://leetcode.com/problems/traffic-signal-color)
 - **2026/07/13** - [Problem 1291: Sequential Digits](https://leetcode.com/problems/sequential-digits)
