@@ -281,3 +281,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2026/07/09** - [Problem 3959: Check Good Integer](https://leetcode.com/problems/check-good-integer)
 - **2026/07/10** - [Problem 3894: Traffic Signal Color](https://leetcode.com/problems/traffic-signal-color)
 - **2026/07/13** - [Problem 1291: Sequential Digits](https://leetcode.com/problems/sequential-digits)
+- **2026/07/14** - [Problem 1861: Rotating the Box](https://leetcode.com/problems/rotating-the-box)
