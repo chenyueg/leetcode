@@ -282,3 +282,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2026/07/10** - [Problem 3894: Traffic Signal Color](https://leetcode.com/problems/traffic-signal-color)
 - **2026/07/13** - [Problem 1291: Sequential Digits](https://leetcode.com/problems/sequential-digits)
 - **2026/07/14** - [Problem 1861: Rotating the Box](https://leetcode.com/problems/rotating-the-box)
+- **2026/07/15** - [Problem 3917: Count Indices With Opposite Parity](https://leetcode.com/problems/count-indices-with-opposite-parity)
