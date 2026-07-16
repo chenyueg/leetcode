@@ -280,3 +280,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2026/07/06** - [Problem 1288: Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals)
 - **2026/07/09** - [Problem 3959: Check Good Integer](https://leetcode.com/problems/check-good-integer)
 - **2026/07/10** - [Problem 3894: Traffic Signal Color](https://leetcode.com/problems/traffic-signal-color)
+- **2026/07/16** - [Problem 3867: Sum of GCD of Formed Pairs](https://leetcode.com/problems/sum-of-gcd-of-formed-pairs)
