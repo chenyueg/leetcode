@@ -284,3 +284,4 @@ One LeetCode problem a day, keeps layoffs away!
 - **2026/07/14** - [Problem 1861: Rotating the Box](https://leetcode.com/problems/rotating-the-box)
 - **2026/07/15** - [Problem 3917: Count Indices With Opposite Parity](https://leetcode.com/problems/count-indices-with-opposite-parity)
 - **2026/07/16** - [Problem 3867: Sum of GCD of Formed Pairs](https://leetcode.com/problems/sum-of-gcd-of-formed-pairs)
+- **2026/07/17** - [Problem 3986: Number of Elapsed Seconds Between Two Times](https://leetcode.com/problems/number-of-elapsed-seconds-between-two-times)
